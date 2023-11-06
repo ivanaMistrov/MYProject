@@ -35,4 +35,5 @@ while again:
     if (int(again) == 1):
         continue
     else:
+        print('пока')
         break
