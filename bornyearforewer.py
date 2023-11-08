@@ -1,5 +1,5 @@
 # год рождения Пушкина
-correct_year_pushkin = "1744"
+correct_year_pushkin = "1799"
 
 while True:
     year_pushkin = input("Введите год рождения Александра Пушкина: ")
