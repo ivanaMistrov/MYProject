@@ -1,4 +1,4 @@
-yearPushkin = 1744
+yearPushkin = 1799
 day_pushkin = '6 июня'
 year = int(input('год рождения Пушкина :'))
 if yearPushkin == year:
